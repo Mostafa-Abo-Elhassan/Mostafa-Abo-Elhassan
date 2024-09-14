@@ -8,111 +8,55 @@
 
 # Mostafa Mahmoud's .NET Projects
 
-Welcome to my GitHub profile! I am a .NET developer with a strong focus on building robust and scalable applications. Below, you will find a list of my notable projects, including a brief description, installation instructions, and usage guidelines.
+# .NET Developer Projects
 
-## Projects
+Welcome to my .NET developer repository! Here you’ll find various projects demonstrating my skills and expertise in .NET development. Explore the code, learn from it, and feel free to contribute or use it as a reference for your own projects.
 
-### 1. **Proxy Server API**
-A lightweight API for managing proxy server requests. Features include request routing and logging.
+---
 
-- **Technologies Used**: .NET Core, C#, RESTful APIs
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/Proxy-Server-API.git`
-  2. Navigate to the project directory: `cd Proxy-Server-API`
-  3. Restore dependencies: `dotnet restore`
-  4. Run the application: `dotnet run`
-- **Usage**: Access the API at `http://localhost:5000/api/proxy`
+## 📚 Projects Overview
 
-### 2. **Blog API**
-A comprehensive API for managing blog posts, categories, and user comments.
+### 1. [**Proxy Server API**](https://github.com/Mostafa-Abo-Elhassan/Proxy-Server-API)
+   - **Description**: A robust API for handling proxy server requests.
+   - **Technologies**: ASP.NET Core, C#, REST API
+   - **Features**: Dynamic IP rotation, Request logging, Authentication
 
-- **Technologies Used**: ASP.NET Core, Entity Framework Core, SQL Server
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/Blog-API.git`
-  2. Navigate to the project directory: `cd Blog-API`
-  3. Restore dependencies: `dotnet restore`
-  4. Apply migrations: `dotnet ef database update`
-  5. Run the application: `dotnet run`
-- **Usage**: Access the API at `http://localhost:5000/api/blog`
+### 2. [**Blog API**](https://github.com/Mostafa-Abo-Elhassan/Blog-API)
+   - **Description**: A comprehensive API for managing blog content.
+   - **Technologies**: ASP.NET Core, Entity Framework Core, C#
+   - **Features**: CRUD operations, User authentication, Tag management
 
-### 3. **Blog Website (ASP.NET MVC)**
-A dynamic website for blogging, featuring user authentication, post management, and comment functionality.
+### 3. [**Blog Website**](https://github.com/Mostafa-Abo-Elhassan/Blog-Website)
+   - **Description**: A fully functional blog website built with ASP.NET MVC.
+   - **Technologies**: ASP.NET MVC, HTML, CSS, JavaScript
+   - **Features**: User registration/login, Post creation/editing, Comment system
 
-- **Technologies Used**: ASP.NET MVC, Razor, SQL Server
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/Blog-Website.git`
-  2. Navigate to the project directory: `cd Blog-Website`
-  3. Restore dependencies: `dotnet restore`
-  4. Run the application: `dotnet run`
-- **Usage**: Access the website at `http://localhost:5000`
+### 4. [**Portfolio Website**](https://github.com/Mostafa-Abo-Elhassan/Portfolio-Website)
+   - **Description**: A personal portfolio website showcasing my projects and skills.
+   - **Technologies**: ASP.NET MVC, Bootstrap, JavaScript
+   - **Features**: Project gallery, Contact form, Responsive design
 
-### 4. **Portfolio Website (ASP.NET MVC)**
-A personal portfolio website showcasing my skills, projects, and contact information.
+### 5. [**To-Do List App**](https://github.com/Mostafa-Abo-Elhassan/To-Do-List-App)
+   - **Description**: A simple and efficient To-Do list application.
+   - **Technologies**: ASP.NET MVC, C#, SQLite
+   - **Features**: Task management, Priority setting, Due dates
 
-- **Technologies Used**: ASP.NET MVC, Razor
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/Portfolio-Website.git`
-  2. Navigate to the project directory: `cd Portfolio-Website`
-  3. Restore dependencies: `dotnet restore`
-  4. Run the application: `dotnet run`
-- **Usage**: Access the website at `http://localhost:5000`
+### 6. [**E-commerce App API**](https://github.com/Mostafa-Abo-Elhassan/E-commerce-App-API)
+   - **Description**: An API designed for handling e-commerce operations.
+   - **Technologies**: ASP.NET Core, Entity Framework Core, C#
+   - **Features**: Product management, Order processing, User authentication
 
-### 5. **To-Do List App (ASP.NET MVC)**
-A simple to-do list application with features for adding, editing, and deleting tasks.
+### 7. [**Movie Store Application**](https://github.com/Mostafa-Abo-Elhassan/Movie-Store-Application)
+   - **Description**: A complete movie store application for browsing and purchasing movies.
+   - **Technologies**: ASP.NET MVC, SQL Server, JavaScript
+   - **Features**: Movie catalog, Shopping cart, User reviews
 
-- **Technologies Used**: ASP.NET MVC, Entity Framework Core
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/To-Do-List-App.git`
-  2. Navigate to the project directory: `cd To-Do-List-App`
-  3. Restore dependencies: `dotnet restore`
-  4. Run the application: `dotnet run`
-- **Usage**: Access the application at `http://localhost:5000`
+---
 
-### 6. **E-commerce App API**
-An API for managing e-commerce functionalities including product listings, orders, and user accounts.
+## 🚀 Getting Started
 
-- **Technologies Used**: .NET Core, Entity Framework Core, MongoDB
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/E-commerce-App-API.git`
-  2. Navigate to the project directory: `cd E-commerce-App-API`
-  3. Restore dependencies: `dotnet restore`
-  4. Run the application: `dotnet run`
-- **Usage**: Access the API at `http://localhost:5000/api/ecommerce`
+To get a local copy up and running, follow these steps:
 
-### 7. **Movie Store Application (ASP.NET MVC)**
-A complete movie store application for browsing and purchasing movies.
-
-- **Technologies Used**: ASP.NET MVC, Entity Framework Core, SQL Server
-- **Installation**:
-  1. Clone the repository: `git clone https://github.com/Mostafa-Abo-Elhassan/Movie-Store-Application.git`
-  2. Navigate to the project directory: `cd Movie-Store-Application`
-  3. Restore dependencies: `dotnet restore`
-  4. Run the application: `dotnet run`
-- **Usage**: Access the website at `http://localhost:5000`
-
-## Getting Started
-
-To get started with any of these projects, follow the installation instructions provided above. Make sure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
-
-## Contributing
-
-Feel free to open issues or submit pull requests. I welcome contributions and feedback to improve the projects.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, you can reach me at:
-
-- **Email**: mostafa@example.com
-- **GitHub**: [Mostafa-Abo-Elhassan](https://github.com/Mostafa-Abo-Elhassan)
-
-Thank you for checking out my projects!
-
-
-<!---
-Mostafa-Abo-Elhassan/Mostafa-Abo-Elhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Mostafa-Abo-Elhassan/<repo-name>.git
