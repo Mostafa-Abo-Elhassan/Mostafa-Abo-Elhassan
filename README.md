@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Mostafa-Abo-Elhassan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m [@Mostafa-Abo-Elhassan](https://github.com/Mostafa-Abo-Elhassan)
+
+## 👀 I’m interested in:
+- **.NET Development**: Building scalable and efficient applications
+- **Web Development**: Creating dynamic and responsive web applications
+- **Cloud Solutions**: Leveraging Azure for modern cloud architectures
+- **Machine Learning**: Integrating AI with .NET technologies
+
+## 🌱 I’m currently learning:
+- **Advanced .NET Core**: Exploring microservices and serverless architectures
+- **Blazor**: Building interactive web UIs with C#
+- **Docker**: Containerizing .NET applications for improved deployment
+
+## 💞️ I’m looking to collaborate on:
+- **.NET Core Projects**: Especially those involving microservices or cloud integration
+- **Open-source Contributions**: Projects that align with .NET or related technologies
+- **Innovative Web Applications**: Using ASP.NET Core, Blazor, and modern front-end frameworks
+
+## 📫 How to reach me:
+- **Email**: [mostafamahmoud1112002@gmail.com](mailto:mostafamahmoud1112002@gmail.com)
+- **LinkedIn**: [Mostafa Abou Elhassan](https://www.linkedin.com/in/mostafa-abouelhassan)
+- **GitHub**: [Mostafa-Abo-Elhassan](https://github.com/Mostafa-Abo-Elhassan)
+
+## 😄 Pronouns:
+- He/Him
+
+## ⚡ Fun fact:
+- I once integrated a custom proxy server with an API to handle high-volume requests for a live event!
+
+Feel free to browse my repositories and get in touch if you're interested in collaborating or have any questions about .NET development!
+
 
 # Mostafa Mahmoud's .NET Projects
 
