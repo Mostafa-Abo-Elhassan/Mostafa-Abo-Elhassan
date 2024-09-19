@@ -1,87 +1,18 @@
+<h1 align="center">Hi 👋, I'm Mostafa Abo Elhassan</h1> <h3 align="center">Junior .NET Developer | Passionate about API & MVC Development</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Abo-Elhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Abo-Elhassan" /> <img src="https://img.shields.io/github/followers/Mostafa-Abo-Elhassan?label=Followers" alt="Mostafa-Abo-Elhassan" /> </p> <br> <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" />
+:school: I am a Junior .NET Developer with a focus on API and MVC development.
+🔭 I’ve built several projects like Proxy Server API, Blog API, Movie Store, and more!
+🌱 I’m currently enhancing my skills in C#, .NET, Entity Framework, and Cloudinary for image hosting.
+🌱 I’m also exploring Angular to learn FrontEnd development.
+📫 How to reach me mostafaaboelhassan@gmail.com
+:thinking: I’m open to exciting new job opportunities and career advancement.
+:nerd_face: Continuously seeking to expand my skill set and solve complex problems.
+<br>
+📩 Connect with me
+<p align="center"> <a href="mailto:mostafaaboelhassan@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/Mostafa-Abo-Elhassan" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Mostafa-Abo-Elhassan" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </p>
+🛠 Languages and Tools
+<br> <p align="center"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="CSharp"><img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a> <a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://img.shields.io/badge/.NET-%23007ACC.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></a> <a href="https://docs.microsoft.com/en-us/sql/sql-server/" title="SQL Server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></a> <a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a> <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a> <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a> <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a> <a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"></a> <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a> </p>
+📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Abo-Elhassan&theme=tokyonight_duo" alt="Mostafa-Abo-Elhassan" /></p> <br/> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Mostafa Abo Elhassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Abo-Elhassan&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Abo-Elhassan&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Abo-Elhassan" height="230px"/> <br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-# 👋 Hi, I’m [@Mostafa-Abo-Elhassan](https://github.com/Mostafa-Abo-Elhassan)
-
-## 👀 I’m interested in:
-- **.NET Development**: Building scalable and efficient applications
-- **Web Development**: Creating dynamic and responsive web applications
-- **Cloud Solutions**: Leveraging Azure for modern cloud architectures
-- **Machine Learning**: Integrating AI with .NET technologies
-
-## 🌱 I’m currently learning:
-- **Advanced .NET Core**: Exploring microservices and serverless architectures
-- **Blazor**: Building interactive web UIs with C#
-- **Docker**: Containerizing .NET applications for improved deployment
-
-## 💞️ I’m looking to collaborate on:
-- **.NET Core Projects**: Especially those involving microservices or cloud integration
-- **Open-source Contributions**: Projects that align with .NET or related technologies
-- **Innovative Web Applications**: Using ASP.NET Core, Blazor, and modern front-end frameworks
-
-## 📫 How to reach me:
-- **Email**: [mostafamahmoud1112002@gmail.com](mailto:mostafamahmoud1112002@gmail.com)
-- **LinkedIn**: [Mostafa Abou Elhassan](https://www.linkedin.com/in/mostafa-abouelhassan)
-- **GitHub**: [Mostafa-Abo-Elhassan](https://github.com/Mostafa-Abo-Elhassan)
-
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun fact:
-- I once integrated a custom proxy server with an API to handle high-volume requests for a live event!
-
-Feel free to browse my repositories and get in touch if you're interested in collaborating or have any questions about .NET development!
-
-
-# Mostafa Mahmoud's .NET Projects
-
-# .NET Developer Projects
-
-Welcome to my .NET developer repository! Here you’ll find various projects demonstrating my skills and expertise in .NET development. Explore the code, learn from it, and feel free to contribute or use it as a reference for your own projects.
-
----
-
-## 📚 Projects Overview
-
-### 1. [**Proxy Server API**](https://github.com/Mostafa-Abo-Elhassan/Proxy-Server-API)
-   - **Description**: A robust API for handling proxy server requests.
-   - **Technologies**: ASP.NET Core, C#, REST API
-   - **Features**: Dynamic IP rotation, Request logging, Authentication
-
-### 2. [**Blog API**](https://github.com/Mostafa-Abo-Elhassan/Blog-API)
-   - **Description**: A comprehensive API for managing blog content.
-   - **Technologies**: ASP.NET Core, Entity Framework Core, C#
-   - **Features**: CRUD operations, User authentication, Tag management
-
-### 3. [**Blog Website**](https://github.com/Mostafa-Abo-Elhassan/Blog-Website)
-   - **Description**: A fully functional blog website built with ASP.NET MVC.
-   - **Technologies**: ASP.NET MVC, HTML, CSS, JavaScript
-   - **Features**: User registration/login, Post creation/editing, Comment system
-
-### 4. [**Portfolio Website**](https://github.com/Mostafa-Abo-Elhassan/Portfolio-Website)
-   - **Description**: A personal portfolio website showcasing my projects and skills.
-   - **Technologies**: ASP.NET MVC, Bootstrap, JavaScript
-   - **Features**: Project gallery, Contact form, Responsive design
-
-### 5. [**To-Do List App**](https://github.com/Mostafa-Abo-Elhassan/To-Do-List-App)
-   - **Description**: A simple and efficient To-Do list application.
-   - **Technologies**: ASP.NET MVC, C#, SQLite
-   - **Features**: Task management, Priority setting, Due dates
-
-### 6. [**E-commerce App API**](https://github.com/Mostafa-Abo-Elhassan/E-commerce-App-API)
-   - **Description**: An API designed for handling e-commerce operations.
-   - **Technologies**: ASP.NET Core, Entity Framework Core, C#
-   - **Features**: Product management, Order processing, User authentication
-
-### 7. [**Movie Store Application**](https://github.com/Mostafa-Abo-Elhassan/Movie-Store-Application)
-   - **Description**: A complete movie store application for browsing and purchasing movies.
-   - **Technologies**: ASP.NET MVC, SQL Server, JavaScript
-   - **Features**: Movie catalog, Shopping cart, User reviews
-
----
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these steps:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Mostafa-Abo-Elhassan/<repo-name>.git
+</p>
