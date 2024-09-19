@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abo Elhassan</h1> <h3 align="center">Junior .NET Developer | Passionate about API & MVC Development</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Abo-Elhassan&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Abo-Elhassan" /> <img src="https://img.shields.io/github/followers/Mostafa-Abo-Elhassan?label=Followers" alt="Mostafa-Abo-Elhassan" /> </p> <br> <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" />
+
 :school: I am a Junior .NET Developer with a focus on API and MVC development.
 🔭 I’ve built several projects like Proxy Server API, Blog API, Movie Store, and more!
 🌱 I’m currently enhancing my skills in C#, .NET, Entity Framework, and Cloudinary for image hosting.
 🌱 I’m also exploring Angular to learn FrontEnd development.
+
 📫 How to reach me mostafaaboelhassan@gmail.com
 :thinking: I’m open to exciting new job opportunities and career advancement.
 :nerd_face: Continuously seeking to expand my skill set and solve complex problems.
