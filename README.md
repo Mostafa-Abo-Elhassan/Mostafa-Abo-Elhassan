@@ -10,7 +10,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px" />
 
-- 🎓 I’m a Computer Science graduate
+- 🎓 I’m a Computer Science student
 - 🔭 I’m currently working on improving my **ASP.NET Core** and **MVC** skills
 - 🌱 Learning **Angular** to expand into front-end development
 - 👨‍💻 My portfolio and projects are available on [GitHub](https://github.com/Mostafa-Abo-Elhassan)
