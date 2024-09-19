@@ -35,17 +35,35 @@
 </p>
 
 ## 🔥 Featured Projects
-- **Movie Store (ASP.NET MVC)**  
-  A fully-featured movie store web application with user authentication, movie browsing, and payment integration.  
-  [View Repository](https://github.com/Mostafa-Abo-Elhassan/MovieStore)
 
-- **Blog API (ASP.NET Core)**  
-  A RESTful API for a blogging platform, with CRUD functionality, user authentication, and comment management.  
-  [View Repository](https://github.com/Mostafa-Abo-Elhassan/BlogAPI)
+### [Movie Store Application using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/mvc-movie-store)
+• Built a full-featured movie store application using ASP.NET MVC.  
+• Implemented features such as browsing movies, adding to cart, user authentication, role-based access, and a checkout system.  
+• Integrated identity management for secure login and user role assignment, and incorporated payment gateway functionalities.
 
-- **Proxy Server API**  
-  An API designed to manage proxy requests with caching and rate-limiting features.  
-  [View Repository](https://github.com/Mostafa-Abo-Elhassan/ProxyServerAPI)
+### [E-commerce App API](https://github.com/Mostafa-Abo-Elhassan/e-commerce-api)
+• Developed a comprehensive API for an e-commerce platform, supporting product management, shopping cart functionality, and order processing.  
+• Integrated secure JWT-based authentication for user management and role-based access control.  
+• Implemented payment gateway integration for handling transactions and ensured secure data flow with HTTPS protocols.  
+• Designed and maintained database schemas to manage product catalogs, orders, and user information efficiently.
+
+### [Proxy Server API](https://github.com/Mostafa-Abo-Elhassan/proxy-server-api)
+• Built an API to handle client requests, forward them to target servers, and return responses.  
+• Implemented features such as request modification and logging.
+
+### [Blog API](https://github.com/Mostafa-Abo-Elhassan/BlogaatAPI)
+• Developed a full-featured API for blog management, incorporating CRUD operations and JWT authentication for secure content management.
+
+### [Blog Website using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/Blogaat)
+• Created a blog application with ASP.NET MVC, featuring user login, signup, profile pages, and role-based permissions using ASP.NET Identity.
+
+### [Portfolio Website using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/portfolio-website)
+• Built a portfolio website with ASP.NET MVC, showcasing personal projects, skills, and career milestones.  
+• Integrated user authentication, role-based permissions, and secure content management using ASP.NET Identity.
+
+### [To-Do List App Website using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/to-do-list-app)
+• Developed a to-do list application with full CRUD functionality.  
+• Styled using Bootstrap and deployed after thorough testing.
 
 ## 📈 GitHub Stats
 <p align="center">
