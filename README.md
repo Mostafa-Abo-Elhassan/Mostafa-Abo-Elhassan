@@ -42,7 +42,7 @@
 - Implemented notifications for attendance and performance alerts to keep students and parents informed.
 - Designed and maintained database schemas to manage student records, course details, and teacher information efficiently.
 
-### [Fruitway Store MVC](https://github.com/Mostafa-Abo-Elhassan/fruitway-store-mvc)
+### [Fruitway Store MVC](https://github.com/Mostafa-Abo-Elhassan/Fruitway_Store)
 - Developed a comprehensive MVC application for the Fruitway Store, enabling users to browse and purchase a variety of fruit products online.
 - Implemented user authentication for secure login and registration, allowing personalized shopping experiences.
 - Integrated an admin panel for managing products, including adding, editing, and deleting fruit items.
