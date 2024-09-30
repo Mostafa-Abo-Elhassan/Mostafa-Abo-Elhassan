@@ -36,10 +36,18 @@
 
 ## 🔥 Featured Projects
 
-### [Movie Store Application using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/mvc-movie-store)
-• Built a full-featured movie store application using ASP.NET MVC.  
-• Implemented features such as browsing movies, adding to cart, user authentication, role-based access, and a checkout system.  
-• Integrated identity management for secure login and user role assignment, and incorporated payment gateway functionalities.
+### [School Management Project](https://github.com/Mostafa-Abo-Elhassan/School_Management_Project)
+- Developed a comprehensive API for a school management platform, supporting student management, teacher management, course management, attendance tracking, and grade management with a clean architecture approach.
+- Integrated secure JWT-based authentication for user management and role-based access control.
+- Implemented notifications for attendance and performance alerts to keep students and parents informed.
+- Designed and maintained database schemas to manage student records, course details, and teacher information efficiently.
+
+### [Fruitway Store MVC](https://github.com/Mostafa-Abo-Elhassan/fruitway-store-mvc)
+- Developed a comprehensive MVC application for the Fruitway Store, enabling users to browse and purchase a variety of fruit products online.
+- Implemented user authentication for secure login and registration, allowing personalized shopping experiences.
+- Integrated an admin panel for managing products, including adding, editing, and deleting fruit items.
+- Designed a shopping cart feature to manage selected items and a secure checkout process with payment gateway integration.
+- Utilized responsive design principles with Bootstrap for optimal user experience across devices.
 
 ### [E-commerce App API](https://github.com/Mostafa-Abo-Elhassan/e-commerce-api)
 • Developed a comprehensive API for an e-commerce platform, supporting product management, shopping cart functionality, and order processing.  
@@ -52,18 +60,34 @@
 • Implemented features such as request modification and logging.
 
 ### [Blog API](https://github.com/Mostafa-Abo-Elhassan/BlogaatAPI)
-• Developed a full-featured API for blog management, incorporating CRUD operations and JWT authentication for secure content management.
+- Developed a full-featured API for blog management, incorporating CRUD operations for posts, comments, and users, ensuring complete content management capabilities.
+- Integrated JWT authentication for secure user access and role-based permissions.
+- Implemented features for managing categories and tags to enhance content organization.
+- Added functionalities for user profiles, including the ability to update personal information and manage account settings.
+- Designed endpoints for retrieving and filtering posts based on various criteria, such as date, popularity, and tags.
 
 ### [Blog Website using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/Blogaat)
-• Created a blog application with ASP.NET MVC, featuring user login, signup, profile pages, and role-based permissions using ASP.NET Identity.
+- Created a comprehensive blog application with ASP.NET MVC, featuring user login and signup functionalities for secure access.
+- Implemented user profile pages allowing users to manage their information and view their posts.
+- Integrated role-based permissions using ASP.NET Identity to control user access levels (admin, author, reader).
+- Developed functionalities for creating, editing, and deleting blog posts, along with comment management.
+- Added features for categorizing posts and tagging for better content organization and retrieval.
+- Included search functionality to help users find specific posts based on keywords.
+- Designed a responsive user interface with Bootstrap for an optimal experience across devices.
 
 ### [Portfolio Website using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/portfolio-website)
 • Built a portfolio website with ASP.NET MVC, showcasing personal projects, skills, and career milestones.  
 • Integrated user authentication, role-based permissions, and secure content management using ASP.NET Identity.
 
 ### [To-Do List App Website using ASP.NET MVC](https://github.com/Mostafa-Abo-Elhassan/To-Do-App)
-• Developed a to-do list application with full CRUD functionality.  
-• Styled using Bootstrap and deployed after thorough testing.
+- Developed a comprehensive to-do list application featuring full CRUD functionality for managing tasks.
+- Implemented user authentication to allow personalized task management.
+- Styled the application using Bootstrap for a clean and responsive user interface.
+- Included functionalities for categorizing tasks, setting due dates, and marking tasks as complete.
+- Integrated features for task prioritization and filtering to enhance user experience.
+- Deployed the application after thorough testing to ensure stability and performance.
+- Added user notifications and reminders for upcoming deadlines to keep users informed.
+
 
 ## 📈 GitHub Stats
 <p align="center">
