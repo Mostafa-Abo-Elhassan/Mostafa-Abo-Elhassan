@@ -49,7 +49,7 @@
 - Designed a shopping cart feature to manage selected items and a secure checkout process with payment gateway integration.
 - Utilized responsive design principles with Bootstrap for optimal user experience across devices.
 
-### [E-commerce App API](https://github.com/Mostafa-Abo-Elhassan/e-commerce-api)
+### [E-commerce App API](https://github.com/Mostafa-Abo-Elhassan/E-commerce_App_API)
 • Developed a comprehensive API for an e-commerce platform, supporting product management, shopping cart functionality, and order processing.  
 • Integrated secure JWT-based authentication for user management and role-based access control.  
 • Implemented payment gateway integration for handling transactions and ensured secure data flow with HTTPS protocols.  
