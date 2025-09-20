@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Computer Science Graduate from Computer Science (2025)  
+- 🎓 Computer Science Graduate  (2025)  
 - 🔭 Team Lead & Backend Developer of **TripPool** (real-time carpooling app using ASP.NET Core + SignalR)  
 - 🌐 Founder of **EgCore** (task-based monetization platform handling 140K+ requests/day, deployed on Google Cloud Run)  
 - 🏆 Finalist in **MCIT Digitopia** competition (DoctorHub healthcare project – prize: 1M EGP)  
