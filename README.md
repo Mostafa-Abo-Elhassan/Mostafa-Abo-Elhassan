@@ -10,7 +10,7 @@ mostafamahmoud1112002@gmail.com | [Portfolio](https://mostafamahmoudev.vercel.ap
 <div style="flex:1; min-width:300px;">
 
 ## About Me
-I am a .NET Backend Engineer specialized in **real-time, high-load systems** handling 140K+ requests/day and 160+ concurrent users.
+I am a .NET Backend Engineer specialized in **real-time, high-load systems** handling 140K+ requests/day and 160+ concurrent users. ![wave](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 - 🌱 Expanding knowledge in AI and LLMs
 - 🎓 B.Sc. Computer Science, Thebes University (2021-2025) – Grade: Excellent
@@ -23,7 +23,7 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 <div style="flex:1; min-width:300px;">
 
 ## 🎥 Featured Video
-[![Watch Video](https://img.youtube.com/vi/idhere/maxresdefault.jpg)](https://www.youtube.com/watch?v=idhere)
+[![Watch Video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
 ▶️ 60-second intro & teaching video  
 • 30s English: Introduction & Experience  
@@ -34,22 +34,61 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 
 ---
 
-## Skills (Categorized)
+## Skills
 
-```json
-{
-  "Backend": ["C#", "ASP.NET Core Web API",
-   "Entity Framework Core",
-  "ASP.NET Core MVC", "SignalR",
-  "JWT", "LINQ", "CQRS"],  
-  "Databases & Cloud": ["SQL Server", "Redis", "MongoDB", "PostgreSQL", "Microsoft Azure", "Docker"],
-  
-  "Architecture & DevOps": ["Clean Architecture", "Modular Monolith", "DDD", "Repository Pattern", "Unit Testing", "Cloud Computing", "CI/CD", "Hangfire", "Performance Optimization"],
-  
-  "Frontend & Tools": ["HTML/CSS/JS", "React", "Node.js", "Git"],
-  "Problem Solving & Concepts": ["Object-Oriented Programming (OOP)", "Data Structures", "Algorithms", "Software Engineering Practices", "Clean Code"]
-}
-```
+<div style="display:flex; gap:40px; flex-wrap:wrap;">
+<div style="flex:1; min-width:150px;">
+### Backend
+- C#
+- ASP.NET Core Web API
+- Entity Framework Core
+- ASP.NET Core MVC
+- SignalR
+- JWT
+- LINQ
+- CQRS
+</div>
+
+<div style="flex:1; min-width:150px;">
+### Databases & Cloud
+- SQL Server
+- Redis
+- MongoDB
+- PostgreSQL
+- Microsoft Azure
+- Docker
+</div>
+
+<div style="flex:1; min-width:150px;">
+### Architecture & DevOps
+- Clean Architecture
+- Modular Monolith
+- DDD
+- Repository Pattern
+- Unit Testing
+- Cloud Computing
+- CI/CD
+- Hangfire
+- Performance Optimization
+</div>
+
+<div style="flex:1; min-width:150px;">
+### Frontend & Tools
+- HTML/CSS/JS
+- React
+- Node.js
+- Git
+</div>
+
+<div style="flex:1; min-width:150px;">
+### Problem Solving & Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Software Engineering Practices
+- Clean Code
+</div>
+</div>
 
 ---
 
@@ -108,4 +147,4 @@ ASP.NET MVC · Hangfire · SQL Server · Docker
 
 ## GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mostafa-Abo-Elhassan&theme=neon-dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://git-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
