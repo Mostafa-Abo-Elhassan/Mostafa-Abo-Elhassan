@@ -10,7 +10,7 @@ mostafamahmoud1112002@gmail.com | [Portfolio](https://mostafamahmoudev.vercel.ap
 <div style="flex:1; min-width:300px;">
 
 ## About Me
-I am a .NET Backend Engineer specialized in **real-time, high-load systems** handling 140K+ requests/day and 160+ concurrent users. ![wave](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+I am a .NET Backend Engineer specialized in **real-time, high-load systems** handling 140K+ requests/day and 160+ concurrent users.
 
 - 🌱 Expanding knowledge in AI and LLMs
 - 🎓 B.Sc. Computer Science, Thebes University (2021-2025) – Grade: Excellent
@@ -23,7 +23,7 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 <div style="flex:1; min-width:300px;">
 
 ## 🎥 Featured Video
-[![Watch Video](https://img.youtube.com/vi/5EHu4Ux_x3I/maxresdefault.jpg)](https://www.youtube.com/watch?v=5EHu4Ux_x3I)
+[![Watch Video](https://img.youtube.com/vi/idhere/maxresdefault.jpg)](https://www.youtube.com/watch?v=idhere)
 
 ▶️ 60-second intro & teaching video  
 • 30s English: Introduction & Experience  
@@ -39,8 +39,11 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 ```json
 {
   "Backend": ["C#", "ASP.NET Core Web API", "Entity Framework Core", "ASP.NET Core MVC", "SignalR", "JWT", "LINQ", "CQRS"],
+  
   "Databases & Cloud": ["SQL Server", "Redis", "MongoDB", "PostgreSQL", "Microsoft Azure", "Docker"],
+  
   "Architecture & DevOps": ["Clean Architecture", "Modular Monolith", "DDD", "Repository Pattern", "Unit Testing", "Cloud Computing", "CI/CD", "Hangfire", "Performance Optimization"],
+  
   "Frontend & Tools": ["HTML/CSS/JS", "React", "Node.js", "Git"],
   "Problem Solving & Concepts": ["Object-Oriented Programming (OOP)", "Data Structures", "Algorithms", "Software Engineering Practices", "Clean Code"]
 }
