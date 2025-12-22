@@ -36,64 +36,26 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 
 ## Skills (Categorized)
 
-```json
 {
-  "Backend": ["C#", "ASP.NET Core Web API", "Entity Framework Core", "ASP.NET Core MVC", "SignalR", "JWT", "LINQ", "CQRS"],
+    "skills": [
+        "C#",                                   "ASP.NET Core Web API",         "Entity Framework Core",
+        "ASP.NET Core MVC",                     "SignalR",                      "JWT",
+        "LINQ",                                 "CQRS",                         "SQL Server",
 
-  "Databases & Cloud": ["SQL Server", "Redis", "MongoDB", "PostgreSQL", "Microsoft Azure", "Docker"],
-  
-  "Architecture & DevOps": ["Clean Architecture", "Modular Monolith", "DDD", "Repository Pattern", "Unit Testing", "Cloud Computing", "CI/CD", "Hangfire", "Performance Optimization"],
-  
-  "Frontend & Tools": ["HTML/CSS/JS", "React", "Node.js", "Git"],
-  
-  "Problem Solving & Concepts": ["Object-Oriented Programming (OOP)", "Data Structures", "Algorithms", "Software Engineering Practices", "Clean Code"]
+        "Redis",                                "MongoDB",                      "PostgreSQL",
+        "Microsoft Azure",                      "Docker",                       "Clean Architecture",
+
+        "Modular Monolith",                     "DDD",                          "Repository Pattern",
+        "Unit Testing",                         "Cloud Computing",              "CI/CD",
+
+        "Hangfire",                             "Performance Optimization",     "HTML/CSS/JS",
+        "React",                                "Node.js",                      "Git",
+
+        "Object-Oriented Programming (OOP)",    "Data Structures",              "Algorithms",
+        "Software Engineering Practices",       "Clean Code"
+    ]
 }
-{
-  "skills": [
 
-    "=== Backend ===",
-    "C#",
-    "ASP.NET Core Web API",
-    "Entity Framework Core",
-    "ASP.NET Core MVC",
-    "SignalR",
-    "JWT",
-    "LINQ",
-    "CQRS",
-
-    "=== Databases & Cloud ===",
-    "SQL Server",
-    "Redis",
-    "MongoDB",
-    "PostgreSQL",
-    "Microsoft Azure",
-    "Docker",
-
-    "=== Architecture & DevOps ===",
-    "Clean Architecture",
-    "Modular Monolith",
-    "DDD",
-    "Repository Pattern",
-    "Unit Testing",
-    "Cloud Computing",
-    "CI/CD",
-    "Hangfire",
-    "Performance Optimization",
-
-    "=== Frontend & Tools ===",
-    "HTML/CSS/JS",
-    "React",
-    "Node.js",
-    "Git",
-
-    "=== Problem Solving & Concepts ===",
-    "Object-Oriented Programming (OOP)",
-    "Data Structures",
-    "Algorithms",
-    "Software Engineering Practices",
-    "Clean Code"
-  ]
-}
 
 
 ## Work Experience
