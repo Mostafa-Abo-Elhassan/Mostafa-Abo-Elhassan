@@ -1,69 +1,66 @@
-<div id="badges" align="center"> 
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Mostafa-Abo-Elhassan">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
+---
+
+<h1 align="center">Hi 👋, I'm Mostafa Abo Elhassan</h1>
+<h3 align="center">.NET Backend Engineer | Real-Time & High-Load Systems</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Abo-Elhassan&style=flat-square&color=blue"/>
+  <img src="https://img.shields.io/github/followers/Mostafa-Abo-Elhassan?label=Followers&style=flat-square"/>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a **.NET Backend Engineer** specialized in **Real-Time & High-Load Systems**  
-from Egypt 🇪🇬  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I’m a **.NET Backend Engineer** from Egypt 🇪🇬  
+I specialize in building **scalable, real-time backend systems**.
 
-- 🔭 Backend developer with strong focus on **ASP.NET Core & SignalR**
-- 🧠 Experienced in building **scalable Web APIs** and real-time systems
-- 🚀 Backend Lead & Developer of **TripPool** (Graduation Project)
-- 📊 Worked on systems handling **140K+ daily requests**
-- 🛠 Strong background in **Clean Architecture & Performance Optimization**
-- 📬 Reach me at: **mostafamahmoud1112002@gmail.com**
-
----
-
-### 🎥 Introduction & Technical Videos
-- 👉 [Introduction Video (60s)](https://youtube.com/YOUR_INTRO_VIDEO)
-- 👉 [How C# Executes Code (CLR, JIT & Machine Code)](https://youtube.com/YOUR_TECH_VIDEO)
+- 🎓 Computer Science Graduate (2025)
+- 🚖 Backend Team Lead – **TripPool** (ASP.NET Core + SignalR)
+- 🌐 Founder of **EgCore** (140K+ requests/day, Google Cloud Run)
+- 🏆 Finalist – **MCIT Digitopia** (DoctorHub – 1M EGP prize)
+- 💼 Open to **Backend / .NET roles**
+- 📫 Reach me at: **mostafamahmoud1112002@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET Framework" width="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" width="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" width="65"/>
+### 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/>
 </div>
 
 ---
 
-<h2 align="center">Skills</h2>
-
+### 🧠 Skills Snapshot
 ```json
 {
   "Backend": [
     "C#", "ASP.NET Core Web API", "ASP.NET MVC",
-    "Entity Framework Core", "LINQ", "JWT Authentication",
-    "SignalR", "CQRS"
-  ],
-  "Architecture": [
-    "Clean Architecture", "Layered Architecture",
-    "SOLID Principles", "Clean Code"
+    "Entity Framework Core", "SignalR",
+    "Clean Architecture", "CQRS"
   ],
   "Database": [
-    "SQL Server", "Database Design", "Performance Tuning"
+    "SQL Server", "PostgreSQL", "Redis"
   ],
   "Concepts": [
     "OOP", "Data Structures", "Algorithms",
-    "High-Load Systems", "Real-Time Systems"
+    "Problem Solving", "Unit Testing"
   ],
-  "Tools": [
-    "Git", "Docker", "Azure", "Postman"
+  "Cloud & DevOps": [
+    "Google Cloud Run", "Docker", "CI/CD"
   ]
 }
