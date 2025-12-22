@@ -154,4 +154,9 @@
 <div class="section" align="center">
 <h2>GitHub Stats</h2>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Mostafa-Abo-Elhassan&theme=neon-dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layo
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layout=compact&theme=vision-friendly-dark" />
+</div>
+
+</div>
+</body>
+</html>
