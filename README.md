@@ -22,7 +22,25 @@
 
 ---
 
-### 👨‍💻 Summary
+## 🎥 Featured Introduction & Teaching Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID_HERE" target="_blank">
+    <img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg"
+         alt="Mostafa Mahmoud — .NET Backend Engineer | CLR & JIT Explanation"
+         width="720"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <b>60-second introduction & teaching video</b><br/>
+  • 30s English: Introduction & Professional Experience<br/>
+  • 30s Arabic: CLR, JIT & C# Execution Flow
+</p>
+
+---
+
+### 👨‍💻 About Me
 .NET Backend Engineer focused on **scalable, real-time, production-grade systems**.  
 Built and led backend development for **TripPool, EgCore, SmartLMS**, handling:
 
@@ -34,15 +52,6 @@ Built and led backend development for **TripPool, EgCore, SmartLMS**, handling:
 - Increased **system throughput by 25%**
 
 Strong focus on **performance, reliability, and clean architecture**.
-
----
-
-### 🧠 Core Expertise
-- Real-time systems (SignalR, WebSockets)
-- High-load backend APIs (.NET 9, ASP.NET Core)
-- Performance tuning & cost optimization
-- Clean Architecture, CQRS, DDD
-- Cloud-native deployment & scaling
 
 ---
 
