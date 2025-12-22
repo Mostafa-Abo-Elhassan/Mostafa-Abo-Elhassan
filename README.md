@@ -25,7 +25,7 @@
 ## 🎥 Featured Introduction & Teaching Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_HERE" target="_blank">
+  <a href="[https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://www.youtube.com/watch?v=5EHu4Ux_x3I)" target="_blank">
     <img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg"
          alt="Mostafa Mahmoud — .NET Backend Engineer | CLR & JIT Explanation"
          width="720"/>
