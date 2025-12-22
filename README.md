@@ -23,7 +23,7 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 <div style="flex:1; min-width:300px;">
 
 ## 🎥 Featured Video
-[![Watch Video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Watch Video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=5EHu4Ux_x3I)
 
 ▶️ 60-second intro & teaching video  
 • 30s English: Introduction & Experience  
