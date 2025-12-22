@@ -1,178 +1,106 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mostafa Mahmoud - Portfolio</title>
-<style>
-    body { font-family: Arial, sans-serif; background-color: #0f111a; color: #e4e6eb; margin:0; padding:0; }
-    a { color: #1DA1F2; text-decoration: none; }
-    .container { width: 90%; max-width: 1200px; margin: auto; padding: 20px; }
-    .header { text-align: center; margin-bottom: 20px; }
-    .badges img { margin: 5px; }
-    .about-video { display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; align-items: center; }
-    .about { flex: 1; min-width: 300px; }
-    .video { flex: 1; min-width: 300px; position: relative; }
-    .video iframe { width: 100%; height: 315px; border: none; border-radius: 10px; }
-    h2 { border-bottom: 2px solid #1DA1F2; padding-bottom: 5px; }
-    .skills-icons img { margin: 5px; vertical-align: middle; }
-    pre { background-color: #1e1e2f; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    .section { margin-bottom: 40px; }
-    ul { margin: 10px 0 10px 20px; }
-    .skill-category { margin-bottom: 20px; }
-</style>
-</head>
-<body>
-<div class="container">
+# Mostafa Mahmoud
 
-<div class="header">
-<h1>Mostafa Mahmoud</h1>
-<h3>.NET Backend Engineer — Real-Time High-Load Systems</h3>
-<div class="badges">
-<a href="https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Mostafa-Abo-Elhassan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://mostafamahmoudev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+.NET Backend Engineer — Real-Time High-Load Systems  
+[GitHub](https://github.com/Mostafa-Abo-Elhassan) | [LinkedIn](https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/) | +20 102 637 0649  
+mostafamahmoud1112002@gmail.com | [Portfolio](https://mostafamahmoudev.vercel.app) | Cairo, Egypt
+
+---
+
+<div style="display:flex; gap: 20px; flex-wrap:wrap;">
+<div style="flex:1; min-width:300px;">
+
+## About Me
+I am a .NET Backend Engineer specialized in **real-time, high-load systems** handling 140K+ requests/day and 160+ concurrent users. ![wave](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
+- 🌱 Expanding knowledge in AI and LLMs
+- 🎓 B.Sc. Computer Science, Thebes University (2021-2025) – Grade: Excellent
+- 💼 Built TripPool, EgCore, SmartLMS handling 140K+ requests/day, 160+ users, latency ~120ms
+- ⚡ Reduced cloud/API costs by 60%, improved ride matching by 30%, increased throughput 25%
+- 📫 Reach me: **mostafamahmoud1112002@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/)
+
+</div>
+
+<div style="flex:1; min-width:300px;">
+
+## 🎥 Featured Video
+[![Watch Video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
+▶️ 60-second intro & teaching video  
+• 30s English: Introduction & Experience  
+• 30s Arabic: CLR, JIT & C# Execution Flow
+
 </div>
 </div>
 
-<!-- About Me + Video -->
-<div class="about-video">
-<div class="about">
-<h2>About Me</h2>
-<p>I am a .NET Backend Engineer specialized in <b>real-time, high-load systems</b> handling 140K+ requests/day and 160+ concurrent users. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
-<ul>
-<li>🌱 Expanding knowledge in AI and LLMs</li>
-<li>🎓 B.Sc. Computer Science, Thebes University (2021-2025) – Grade: Excellent</li>
-<li>💼 Built TripPool, EgCore, SmartLMS handling 140K+ requests/day, 160+ users, latency ~120ms</li>
-<li>⚡ Reduced cloud/API costs by 60%, improved ride matching by 30%, increased throughput 25%</li>
-<li>📫 Reach me: <b>mostafamahmoud1112002@gmail.com</b> | <a href="https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/">LinkedIn</a></li>
-</ul>
-</div>
+---
 
-<div class="video">
-<h2>🎥 Featured Video</h2>
-<iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" title="Mostafa Abo Elhassan - Introduction & .NET CLR Explanation" allowfullscreen></iframe>
-<p style="text-align:center;">▶️ 60-second intro & teaching video<br>• 30s English: Introduction & Experience<br>• 30s Arabic: CLR, JIT & C# Execution Flow</p>
-</div>
-</div>
+## Skills (Categorized)
 
-<!-- Skills -->
-<div class="section">
-<h2>Skills</h2>
+```json
+{
+  "Backend": ["C#", "ASP.NET Core Web API", "Entity Framework Core", "ASP.NET Core MVC", "SignalR", "JWT", "LINQ", "CQRS"],
+  "Databases & Cloud": ["SQL Server", "Redis", "MongoDB", "PostgreSQL", "Microsoft Azure", "Docker"],
+  "Architecture & DevOps": ["Clean Architecture", "Modular Monolith", "DDD", "Repository Pattern", "Unit Testing", "Cloud Computing", "CI/CD", "Hangfire", "Performance Optimization"],
+  "Frontend & Tools": ["HTML/CSS/JS", "React", "Node.js", "Git"],
+  "Problem Solving & Concepts": ["Object-Oriented Programming (OOP)", "Data Structures", "Algorithms", "Software Engineering Practices", "Clean Code"]
+}
+```
 
-<div class="skill-category">
-<h3>Backend & .NET</h3>
-<p>C#, ASP.NET Core Web API, ASP.NET Core MVC, Entity Framework Core, Minimal APIs, gRPC, LINQ</p>
-</div>
+---
 
-<div class="skill-category">
-<h3>Databases</h3>
-<p>SQL Server, PostgreSQL, Redis, MongoDB, ElasticSearch</p>
-</div>
+## Work Experience
 
-<div class="skill-category">
-<h3>Architecture & Patterns</h3>
-<p>Clean Architecture, Modular Monolith, DDD, Repository Pattern, CQRS, MediatR</p>
-</div>
+**Full-Stack Freelancer — Nasamaat Platform (Remote, Saudi Arabia) | May 2025 – Jun 2025**
+- Delivered production-grade platform (booking, CMS, admin)
+- Boosted performance +45% via caching & SQL optimization
+- Developed scalable backend modules
 
-<div class="skill-category">
-<h3>DevOps & Cloud</h3>
-<p>Docker, CI/CD, Azure DevOps, Google Cloud Run</p>
-</div>
+**Backend Developer Intern — Intern2Grow (Remote, Egypt) | May 2024 – Jul 2024**
+- Built secure REST APIs (ASP.NET Core, EF Core, JWT)
+- Contributed to CI/CD pipelines, debugging, unit tests
+- Applied clean architecture collaboratively
 
-<div class="skill-category">
-<h3>Performance & Testing</h3>
-<p>Caching, Hangfire, Load Testing (Locust), Profiling, xUnit, NUnit, Mocking, Postman Automation</p>
-</div>
+---
 
-<div class="skill-category">
-<h3>Frontend</h3>
-<p>HTML, CSS, JavaScript, React, Blazor, TypeScript</p>
-</div>
+## Featured Projects
 
-<div class="skill-category">
-<h3>Security</h3>
-<p>JWT Auth, Token Refresh, OWASP, Code Scanning Tools</p>
-</div>
+**TripPool — Real-Time Ride-Sharing**  
+.NET 9 · SignalR · SQL Server · Google Maps API  
+- Handles 160+ concurrent users, 140K+ requests/day
+- Smart ride-matching algorithm (30% better efficiency)
+- Reduced Google Maps API cost by 60%
+- Load tested for 160+ users, minimal latency (~120ms)
 
-<div class="skill-category">
-<h3>Real-Time & Tools</h3>
-<p>SignalR, WebSockets, WebRTC, Git/GitHub, SonarCloud, Swagger</p>
-</div>
-</div>
+**EgCore — High-Load Task Engine**  
+ASP.NET MVC · Hangfire · SQL Server · Docker  
+- Processes 140K+ requests/day, 4M+ monthly operations
+- Maintains 99.9% uptime
+- Automated cleanup, validation, scheduling pipelines
+- Achieved 25% operational growth through efficiency improvements
 
-<!-- Work Experience -->
-<div class="section">
-<h2>Work Experience</h2>
-<h3>Full-Stack Freelancer — Nasamaat Platform (Remote, Saudi Arabia) | May 2025 – Jun 2025</h3>
-<ul>
-<li>Delivered production-grade platform (booking, CMS, admin)</li>
-<li>Boosted performance +45% via caching & SQL optimization</li>
-<li>Developed scalable backend modules</li>
-</ul>
-<h3>Backend Developer Intern — Intern2Grow (Remote, Egypt) | May 2024 – Jul 2024</h3>
-<ul>
-<li>Built secure REST APIs (ASP.NET Core, EF Core, JWT)</li>
-<li>Contributed to CI/CD pipelines, debugging, unit tests</li>
-<li>Applied clean architecture collaboratively</li>
-</ul>
-</div>
+**SmartLMS API**  
+- Clean Architecture API for 1K+ students/teachers
+- JWT Auth & Identity, Role-based access
+- Centralized logging (Serilog + ELK) & background jobs (Hangfire)
+- Unit testing with 85% coverage
 
-<!-- Projects -->
-<div class="section">
-<h2>Featured Projects</h2>
-<h3>TripPool — Real-Time Ride-Sharing</h3>
-<p>.NET 9 · SignalR · SQL Server · Google Maps API</p>
-<ul>
-<li>Handles 160+ concurrent users, 140K+ requests/day</li>
-<li>Smart ride-matching algorithm (30% better efficiency)</li>
-<li>Reduced Google Maps API cost by 60%</li>
-<li>Load tested for 160+ users, minimal latency (~120ms)</li>
-</ul>
-<h3>EgCore — High-Load Task Engine</h3>
-<p>ASP.NET MVC · Hangfire · SQL Server · Docker</p>
-<ul>
-<li>Processes 140K+ requests/day, 4M+ monthly operations</li>
-<li>Maintains 99.9% uptime</li>
-<li>Automated cleanup, validation, scheduling pipelines</li>
-<li>Achieved 25% operational growth through efficiency improvements</li>
-</ul>
-<h3>SmartLMS API</h3>
-<ul>
-<li>Clean Architecture API for 1K+ students/teachers</li>
-<li>JWT Auth & Identity, Role-based access</li>
-<li>Centralized logging (Serilog + ELK) & background jobs (Hangfire)</li>
-<li>Unit testing with 85% coverage</li>
-</ul>
-<h3>Ocommerce</h3>
-<ul>
-<li>Full-stack e-commerce platform with secure checkout, role dashboards, caching for hot products, responsive UI</li>
-</ul>
-<h3>Blogaat</h3>
-<ul>
-<li>Blogging platform with role-based workflow, SEO-ready structure, analytics dashboard, and engagement features</li>
-</ul>
-</div>
+**Ocommerce**  
+- Full-stack e-commerce platform with secure checkout, role dashboards, caching for hot products, responsive UI
 
-<!-- Achievements -->
-<div class="section">
-<h2>Achievements</h2>
-<ul>
-<li>MCIT Digitopia Finalist (1M EGP prize)</li>
-<li>Founded EgCore (4M+ monthly operations)</li>
-<li>Led TripPool backend (160+ real-time users)</li>
-<li>Built open-source .NET Boilerplate (Onion + CQRS + SignalR)</li>
-<li>Founded SoftSolution software house</li>
-</ul>
-</div>
+**Blogaat**  
+- Blogging platform with role-based workflow, SEO-ready structure, analytics dashboard, and engagement features
 
-<!-- GitHub Stats -->
-<div class="section" align="center">
-<h2>GitHub Stats</h2>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Mostafa-Abo-Elhassan&theme=neon-dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layout=compact&theme=vision-friendly-dark" />
-</div>
+---
 
-</div>
-</body>
-</html>
+## Achievements
+- MCIT Digitopia Finalist (1M EGP prize)
+- Founded EgCore (4M+ monthly operations)
+- Led TripPool backend (160+ real-time users)
+- Built open-source .NET Boilerplate (Onion + CQRS + SignalR)
+- Founded SoftSolution software house
+
+---
+
+## GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mostafa-Abo-Elhassan&theme=neon-dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
