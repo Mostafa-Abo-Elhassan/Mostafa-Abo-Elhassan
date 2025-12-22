@@ -10,15 +10,16 @@
     .container { width: 90%; max-width: 1200px; margin: auto; padding: 20px; }
     .header { text-align: center; margin-bottom: 20px; }
     .badges img { margin: 5px; }
-    .about-video { display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; }
+    .about-video { display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; align-items: center; }
     .about { flex: 1; min-width: 300px; }
-    .video { flex: 1; min-width: 300px; }
-    .video img { width: 100%; border-radius: 10px; }
+    .video { flex: 1; min-width: 300px; position: relative; }
+    .video iframe { width: 100%; height: 315px; border: none; border-radius: 10px; }
     h2 { border-bottom: 2px solid #1DA1F2; padding-bottom: 5px; }
     .skills-icons img { margin: 5px; vertical-align: middle; }
     pre { background-color: #1e1e2f; padding: 10px; border-radius: 5px; overflow-x: auto; }
     .section { margin-bottom: 40px; }
     ul { margin: 10px 0 10px 20px; }
+    .skill-category { margin-bottom: 20px; }
 </style>
 </head>
 <body>
@@ -50,39 +51,54 @@
 
 <div class="video">
 <h2>🎥 Featured Video</h2>
-<a href="https://www.youtube.com/watch?v=VIDEO_ID_HERE" target="_blank">
-<img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg" alt="Introduction Video"/>
-</a>
+<iframe src="https://www.youtube.com/embed/VIDEO_ID_HERE" title="Mostafa Abo Elhassan - Introduction & .NET CLR Explanation" allowfullscreen></iframe>
 <p style="text-align:center;">▶️ 60-second intro & teaching video<br>• 30s English: Introduction & Experience<br>• 30s Arabic: CLR, JIT & C# Execution Flow</p>
 </div>
 </div>
 
 <!-- Skills -->
 <div class="section">
-<h2>Languages & Tools</h2>
-<div class="skills-icons" align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="60"/>
+<h2>Skills</h2>
+
+<div class="skill-category">
+<h3>Backend & .NET</h3>
+<p>C#, ASP.NET Core Web API, ASP.NET Core MVC, Entity Framework Core, Minimal APIs, gRPC, LINQ</p>
 </div>
-<pre>{
-  "skills": [
-    "C#","ASP.NET Core Web API","Entity Framework Core","Database Systems",
-    "JWT","LINQ",".NET Core","ASP.NET Core MVC","Microsoft Azure",
-    "Software Engineering Practices","Clean Code","Unit Testing",
-    "Clean Architecture","Cloud Computing","Problem Solving",
-    "OOP","Data Structures","Algorithms","SQL","Git","CQRS","SignalR","Docker","Redis"
-  ]
-}</pre>
+
+<div class="skill-category">
+<h3>Databases</h3>
+<p>SQL Server, PostgreSQL, Redis, MongoDB, ElasticSearch</p>
+</div>
+
+<div class="skill-category">
+<h3>Architecture & Patterns</h3>
+<p>Clean Architecture, Modular Monolith, DDD, Repository Pattern, CQRS, MediatR</p>
+</div>
+
+<div class="skill-category">
+<h3>DevOps & Cloud</h3>
+<p>Docker, CI/CD, Azure DevOps, Google Cloud Run</p>
+</div>
+
+<div class="skill-category">
+<h3>Performance & Testing</h3>
+<p>Caching, Hangfire, Load Testing (Locust), Profiling, xUnit, NUnit, Mocking, Postman Automation</p>
+</div>
+
+<div class="skill-category">
+<h3>Frontend</h3>
+<p>HTML, CSS, JavaScript, React, Blazor, TypeScript</p>
+</div>
+
+<div class="skill-category">
+<h3>Security</h3>
+<p>JWT Auth, Token Refresh, OWASP, Code Scanning Tools</p>
+</div>
+
+<div class="skill-category">
+<h3>Real-Time & Tools</h3>
+<p>SignalR, WebSockets, WebRTC, Git/GitHub, SonarCloud, Swagger</p>
+</div>
 </div>
 
 <!-- Work Experience -->
