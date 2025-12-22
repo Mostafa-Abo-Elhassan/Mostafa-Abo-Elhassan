@@ -22,124 +22,68 @@
 
 ---
 
-## 🎥 Featured Introduction & Teaching Video
+<!-- About Me + Featured Video Side by Side -->
+<div style="display: flex; align-items: flex-start; gap: 40px;">
 
-<p align="center">
-  <a href="[https://www.youtube.com/watch?v=5EHu4Ux_x3I](https://www.youtube.com/watch?v=5EHu4Ux_x3I)" target="_blank">
-    <img src="https://img.youtube.com/vi/5EHu4Ux_x3I/maxresdefault.jpg"
-         alt="Mostafa Mahmoud — .NET Backend Engineer | CLR & JIT Explanation"
-         width="720"/>
-  </a>
-</p>
-<p align="center">
-  ▶️ <b>60-second introduction & teaching video</b><br/>
-  • 30s English: Introduction & Professional Experience<br/>
-  • 30s Arabic: CLR, JIT & C# Execution Flow
-</p>
+  <!-- About Me -->
+  <div style="flex: 1;">
+    <h2>:man_technologist: About Me</h2>
+    <p>
+      I am a .NET Backend Engineer specialized in <b>real-time, high-load systems</b> handling 140K+ requests/day and 160+ concurrent users. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    </p>
+    <ul>
+      <li>🌱 Expanding knowledge in AI and LLMs</li>
+      <li>🎓 B.Sc. Computer Science, Thebes University (2021-2025) – Grade: Excellent</li>
+      <li>💼 Built TripPool, EgCore, SmartLMS handling 140K+ requests/day, 160+ users, latency ~120ms</li>
+      <li>⚡ Reduced cloud/API costs by 60%, improved ride matching by 30%, increased throughput 25%</li>
+      <li>📫 Reach me: <b>mostafamahmoud1112002@gmail.com</b> | <a href="https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/">LinkedIn</a></li>
+    </ul>
+  </div>
 
----
+  <!-- Featured Video -->
+  <div style="flex: 1;">
+    <h2>🎥 Featured Video</h2>
+    <a href="https://www.youtube.com/watch?v=VIDEO_ID_HERE" target="_blank">
+      <img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg" width="100%" alt="Introduction Video"/>
+    </a>
+    <p style="text-align:center;">
+      ▶️ 60-second intro & teaching video<br>
+      • 30s English: Introduction & Experience<br>
+      • 30s Arabic: CLR, JIT & C# Execution Flow
+    </p>
+  </div>
 
-### 👨‍💻 About Me
-.NET Backend Engineer focused on **scalable, real-time, production-grade systems**.  
-Built and led backend development for **TripPool, EgCore, SmartLMS**, handling:
-
-- **140K+ requests/day**
-- **160+ concurrent users**
-- **<120ms average latency**
-- Reduced **cloud & API costs by 60%**
-- Improved **matching efficiency by 30%**
-- Increased **system throughput by 25%**
-
-Strong focus on **performance, reliability, and clean architecture**.
-
----
-
-### 🛠️ Languages & Tools
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/>
 </div>
 
 ---
 
-### 💼 Work Experience
-
-**Full-Stack Freelancer — Nasamaat Platform**  
-_Remote · Saudi Arabia · May 2025 – Jun 2025_
-- Delivered production-grade booking, CMS, and admin platform
-- Boosted performance **+45%** via caching & SQL optimization
-- Designed scalable backend modules ready for growth
-
-**Backend Developer Intern — Intern2Grow**  
-_Remote · Egypt · May 2024 – Jul 2024_
-- Built secure REST APIs using ASP.NET Core, EF Core, JWT
-- Contributed to CI/CD pipelines, unit testing, debugging
-- Applied Clean Architecture in a collaborative team setup
-
----
-
-### 🚀 Featured Projects
-
-**🚖 TripPool — Real-Time Ride-Sharing**  
-_.NET 9 · SignalR · SQL Server · Google Maps API_
-- Real-time tracking & trip matching for **160+ concurrent users**
-- Reduced Google Maps API cost by **60%**
-- Improved matching efficiency by **30%**
-- Load-tested under high concurrency with minimal latency
-
-**🌐 EgCore — High-Load Task Engine**  
-_ASP.NET MVC · Hangfire · SQL Server · Docker_
-- **140K+ requests/day**, **4M+ monthly operations**
-- Automated cleanup & scheduling pipelines
-- Stress-tested at **4K req/min**, avg latency **<150ms**
-- Achieved **99.9% uptime** and **25% operational growth**
+### :hammer_and_wrench: Languages & Tools
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/efcore/efcore-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="60"/>
+</div>
 
 ---
 
-### 📚 Other Projects
-- PlanIt (Hybrid Trello / Notion)
-- DoctorHub (National AI Healthcare – MCIT Digitopia)
-- Blogaat · Ocommerce · Chat App (SignalR)
-- Blog API · .NET Boilerplate · Portfolio · To-Do App
-
----
-
-### 🎓 Education
-**B.Sc. in Computer Science — Thebes University**  
-_2021 – 2025_  
-Graduation Project: **TripPool** (Real-Time Ride-Sharing)  
-Grade: **Excellent**
-
----
-
-### 🏆 Achievements
-- MCIT Digitopia Finalist (**1M EGP prize**)
-- Founded **EgCore** (4M+ monthly operations)
-- Led backend development for **TripPool**
-- Built open-source **.NET Boilerplate (Onion + CQRS + SignalR)**
-- Founded **SoftSolution** software house
-
----
-
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Abo-Elhassan&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Abo-Elhassan&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:mostafamahmoud1112002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud-abo-elhassan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### Skills
+```json
+{
+  "skills": [
+    "C#","ASP.NET Core Web API","Entity Framework Core","Database Systems",
+    "JWT","LINQ",".NET Core","ASP.NET Core MVC","Microsoft Azure",
+    "Software Engineering Practices","Clean Code","Unit Testing",
+    "Clean Architecture","Cloud Computing","Problem Solving",
+    "OOP","Data Structures","Algorithms","SQL","Git","CQRS","SignalR","Docker","Redis"
+  ]
+}
