@@ -25,13 +25,12 @@
 ## 🎥 Featured Introduction & Teaching Video
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://www.youtube.com/watch?v=5EHu4Ux_x3I)" target="_blank">
-    <img src="https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg"
+  <a href="[https://www.youtube.com/watch?v=5EHu4Ux_x3I](https://www.youtube.com/watch?v=5EHu4Ux_x3I)" target="_blank">
+    <img src="https://img.youtube.com/vi/5EHu4Ux_x3I/maxresdefault.jpg"
          alt="Mostafa Mahmoud — .NET Backend Engineer | CLR & JIT Explanation"
          width="720"/>
   </a>
 </p>
-
 <p align="center">
   ▶️ <b>60-second introduction & teaching video</b><br/>
   • 30s English: Introduction & Professional Experience<br/>
