@@ -37,7 +37,7 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 ## Skills (Categorized)
 
 {
-  "skills": [
+  
         "C#",                                   "ASP.NET Core Web API",         "Entity Framework Core",
         "ASP.NET Core MVC",                     "SignalR",                      "JWT",
         "LINQ",                                 "CQRS",                         "SQL Server",
@@ -53,7 +53,7 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 
         "Object-Oriented Programming (OOP)",    "Data Structures",              "Algorithms",
         "Software Engineering Practices",       "Clean Code"
-        ]
+        
 }
 
 ---
