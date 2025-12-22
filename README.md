@@ -38,8 +38,10 @@ I am a .NET Backend Engineer specialized in **real-time, high-load systems** han
 
 ```json
 {
-  "Backend": ["C#", "ASP.NET Core Web API", "Entity Framework Core", "ASP.NET Core MVC", "SignalR", "JWT", "LINQ", "CQRS"],
-  
+  "Backend": ["C#", "ASP.NET Core Web API",
+   "Entity Framework Core",
+  "ASP.NET Core MVC", "SignalR",
+  "JWT", "LINQ", "CQRS"],  
   "Databases & Cloud": ["SQL Server", "Redis", "MongoDB", "PostgreSQL", "Microsoft Azure", "Docker"],
   
   "Architecture & DevOps": ["Clean Architecture", "Modular Monolith", "DDD", "Repository Pattern", "Unit Testing", "Cloud Computing", "CI/CD", "Hangfire", "Performance Optimization"],
